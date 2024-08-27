@@ -1,0 +1,1 @@
+add_library(${MORSE_LIBRARY} STATIC "morse.cpp")
