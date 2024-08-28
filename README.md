@@ -17,3 +17,9 @@ A simple command-line application that allows users to convert text to Morse cod
 - cmake --build .
 - cd app
 - ./translator
+
+## Run Unit tests
+
+- cmake --build .
+- cd tests
+- ./morse_test
