@@ -23,3 +23,6 @@ A simple command-line application that allows users to convert text to Morse cod
 - cmake --build .
 - cd tests
 - ./morse_test
+
+## Build in Debug
+- cmake -DENABLE_DEBUG=ON ..
